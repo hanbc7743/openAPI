@@ -146,7 +146,7 @@ paths:
       tags:
         - Payments
       requestBody:
-        description: payment description
+        description: Payment description
         required: true
         content:
           application/json:
