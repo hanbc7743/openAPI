@@ -145,7 +145,7 @@ paths:
       summary: To do payment
       tags:
         - Payments
-       requestBody:
+      requestBody:
         description: Payment description
         required: true
         content:
